@@ -1,8 +1,8 @@
-# ThreeJSTemplete
-Three JS project setup with webpack, jest and firebase.
+# Three.js Templete
+Three.js project setup with webpack, jest and firebase.
 
-A ready made project for THREE.JS for typescript, with built in commands to quickly test, run, and build for quick proeject setup.
-made for beginners who want to get working in THREE JS immediately.
+A readymade project for three.js in typescript, with built in commands to quickly test, run, and build for quick project setup.
+made for beginners who want to get working in Three.js immediately.
 
 # Prerequisites 
 
@@ -11,7 +11,7 @@ made for beginners who want to get working in THREE JS immediately.
 
 # Setup
 
-1. "npm install".  Installs npm modules required for  the project
+1. "npm install".  Installs npm modules required for the project
 1. (firebase only) firebase init 
 
 # commands
