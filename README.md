@@ -17,6 +17,6 @@ made for beginners who want to get working in Three.js immediately.
 # commands
 
 - "npm test" runs all jest scripts in the "./ts/tests/" folder; for more information on writing test scripts with jest see https://jestjs.io/
-- "npm run"  locally hosts the project and runs it at localhost:8080. should open automatically in browser.
+- "npm run start"  locally hosts the project and runs it at localhost:8080. should open automatically in browser.
 - "npm run build" builds the project into a minified index.js and html script in the "dist" folder.
   - (firebase only) and deploys the project to the attached firebase project. to disable open "package.json" and remove "&& firebase deploy" from "build" script.
