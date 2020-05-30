@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "module": "ES2020",
+    "outDir": "src/js",
+    "target": "es6",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./",
+    "paths": {
+      "*": ["src/ts/*"]
+    }
+  },
+  "exclude": [
+    "node_modules",
+    "dist",
+    "src/ts/tests/**/*"
+  ],
+  "include": [
+    "src/ts/**/*"
+  ]
+}
